@@ -1,6 +1,7 @@
 
 let students = [
     { id: 1, name: "Leanne Graham", email: "Sincere@april.biz", username: "Bret", phone: "1-770-736-8031 x56442" },
+    { id: 1, name: "Leanne Graham", email: "Sincere@april.biz", username: "Bret", phone: "1-770-736-8031 x56442" },
 ]
 
 export const getStudents = (req, res) => {
